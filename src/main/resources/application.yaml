@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: api-tuesday
+    jpa:
+      defer-datasource-initialization=true:
+
