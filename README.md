@@ -1,4 +1,4 @@
-# 🍕 API Pizzaria Tuesday
+# 🍕 API Pizzaria 
 
 Bem-vindo ao projeto **API Pizzaria Tuesday**! Esta é uma API REST completa desenvolvida para gerenciar os processos de uma pizzaria, desde o cardápio até o controle de fornecedores e funcionários.
 
